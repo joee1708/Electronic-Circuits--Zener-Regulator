@@ -9,6 +9,8 @@ To implement a Zener Voltage regulator and to obtain the output for variable loa
 5. DC Ammeter (0-200)mA
 6. DC Voltmeter (0-30)V
 ## CIRCUIT DIAGRAM:
+<img width="1600" height="775" alt="image" src="https://github.com/user-attachments/assets/2b96b9d1-043b-4d06-859a-86f273b3efa0" />
+
 
 ## PROCEDURE:
 1.	Connections are made as shown in the circuit diagram.
@@ -26,6 +28,11 @@ To implement a Zener Voltage regulator and to obtain the output for variable loa
 
 
 36.	## OUTPUTS:
+37.	<img width="1508" height="1600" alt="image" src="https://github.com/user-attachments/assets/ed15dbb7-67c7-467c-9237-e1967df43658" />
+<img width="1246" height="1600" alt="image" src="https://github.com/user-attachments/assets/93604313-dfa9-4357-964b-a5ff5e64946c" />
+<img width="1193" height="1599" alt="image" src="https://github.com/user-attachments/assets/271d8e72-deab-41fa-950c-f1d870277e8c" />
 
-37.	## RESULT:
+
+38.	## RESULT:
+<img width="762" height="1600" alt="image" src="https://github.com/user-attachments/assets/ab5378a6-2161-4b53-b0b3-20240e7437f5" />
 
